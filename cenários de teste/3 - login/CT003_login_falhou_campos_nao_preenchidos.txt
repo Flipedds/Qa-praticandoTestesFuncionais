@@ -1,0 +1,5 @@
+Cenário: usuário não preenche campos obrigatórios e a página apresenta mensagem de erro      
+    Dado que o usuário esteja na página de login 
+    E não preencher os campos
+    Quando clicar no botão login
+    Então o sistema deverá mostrar a mensagem "Epic sadface: Username is required"

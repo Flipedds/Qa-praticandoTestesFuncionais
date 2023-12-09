@@ -1,0 +1,5 @@
+Cenário: usuário preenche dados incorretos e a página apresenta mensagem de erro   
+    Dado que o usuário esteja na página de login 
+    E preencher errôneamente usuário e senha
+    Quando clicar no botão login
+    Então o sistema deverá mostrar a mensagem "Epic sadface: Username and password do not match any user in this service"

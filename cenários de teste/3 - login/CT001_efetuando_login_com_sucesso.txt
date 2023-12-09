@@ -1,0 +1,5 @@
+Cenário: usuário efetuando login com sucesso    
+    Dado que o usuário esteja na página de login 
+    E preencher corretamente usuário e senha
+    Quando clicar no botão login
+    Então ele deve ser redirecionado para a página de produto

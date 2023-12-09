@@ -1,0 +1,22 @@
+Id: 1
+Título: efetuando checkout sem produtos no carrinho
+Passos para execução: 
+    estando na página de carrinho
+    não tendo nenhum produto
+    clicando em checkout
+    preenchendo os dados
+    e finalizando a compra
+
+Resultados esperados: 
+mensagem de erro -> Não é possível efetuar o checkout sem produtos no carrinho
+Usuário impedido de continuar o checkout
+
+Versão: v1
+
+Plataforma: Web
+
+Navegador: Edge
+
+criticidade: Alta
+
+Evidência: video em anexo -> checkout sem produtos.mp4

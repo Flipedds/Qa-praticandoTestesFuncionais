@@ -1,0 +1,7 @@
+Step-by-Step 
+1 -  Acessar página de checkout
+2 -  Clicar em checkout com produtos no carrinho
+3 -  Preencher corretamente os dados
+4 -  Clicar em finish
+
+Então a compra foi efetuada com sucesso
